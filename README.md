@@ -6,7 +6,7 @@
 
 ## 🔭 Currently working on
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
-- ⽊ [**Sapling**](https://github.com/MajorLift/sapling/branches/yours): Interactive React component hierarchy and dependency tree visualizer.
+- ⽊ [**Sapling**](https://github.com/MajorLift/sapling/branches/all): Interactive React component hierarchy and dependency tree visualizer.
 
 <!-- - [Parse Server](https://github.com/parse-community/parse-server) -->
 <!-- - [RedwoodJS](https://github.com/redwoodjs) -->
