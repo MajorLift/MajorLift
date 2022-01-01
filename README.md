@@ -2,14 +2,13 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=dracula)](https://github.com/majorlift/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=)](https://github.com/majorlift/github-readme-stats) -->
 
 ## 🔭 Currently working on
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
 - ⽊ [**Sapling**](https://github.com/MajorLift/sapling/branches/all): Interactive React component hierarchy and dependency tree visualizer.
-
-<!-- - [Parse Server](https://github.com/parse-community/parse-server) -->
-<!-- - [RedwoodJS](https://github.com/redwoodjs) -->
+- 🔎 [Parse Server](https://github.com/parse-community/parse-server)
+- 🧮 [RedwoodJS](https://github.com/redwoodjs)
 
 <!--  Github Extra Pins  -->
 <!-- [![Swell](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Swell&theme=)](https://github.com/open-source-labs/swell)\ -->
