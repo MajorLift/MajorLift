@@ -1,4 +1,4 @@
-# Hi, I'm Jongsun👋.
+# Hi, I'm Jongsun 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=)
 
@@ -68,7 +68,12 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 
-<!-- ## 🌱 I'm learning -->
+## 🌱 I'm learning
+- [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-distributed-applications/dp/1838430202)
+- [Microservices Architecture Design Patterns](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/)
+- [GoF Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+- [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming/)
+- [![terraform](https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://learn.hashicorp.com/collections/terraform/aws)
 
 <!-- ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) -->
 <!-- ![redwoodjs](https://img.shields.io/badge/redwoodjs-BF4722?style=for-the-badge&logo=redwoodjs&logoColor=white) -->
