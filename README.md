@@ -8,10 +8,10 @@
 #### Open-Source Contributions
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
 - ⽊ [**Sapling**](https://github.com/MajorLift/sapling/branches/all): Interactive React component hierarchy and dependency tree visualizer.
-- 🔎 [Parse Server](https://github.com/parse-community/parse-server)
-- 🍄 [RedwoodJS](https://github.com/redwoodjs)
+- 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator*
+- 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding*
 #### Original Projects
-- 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): A series of brain teasers and practical challenges that will expose you to every major frontend technology.
+- 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *WIP* - A series of brain teasers and practical challenges that will expose you to every major frontend technology.
 
 
 <!--  Github Extra Pins  -->
@@ -41,36 +41,38 @@
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming/)
 - [![terraform](https://img.shields.io/badge/terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://learn.hashicorp.com/collections/terraform/aws)
 
+<!-- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) -->
+<!-- ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) -->
+<!-- ![angular.js](https://img.shields.io/badge/angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=black) -->
+<!-- ![gatsby](https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) -->
+<!-- ![redwoodjs](https://img.shields.io/badge/redwoodjs-BF4722?style=for-the-badge&logo=redwoodjs&logoColor=white) -->
+
+<!-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+<!-- ![storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
+<!-- ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) -->
+<!-- ![chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=Chai&logoColor=white) -->
+<!-- ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)\ -->
+<!-- ![prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white) -->
+<!-- ![git kraken](https://img.shields.io/badge/git_kraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white) -->
+
+<!-- ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
+<!-- ![github actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) -->
+<!-- ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
+<!-- ![lets_encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white) -->
+
+<!-- ![apache kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
+<!-- ![apache cassandra](https://img.shields.io/badge/apache_cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white) -->
+
 <!-- ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) -->
 <!-- ![numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) -->
 <!-- ![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) -->
 <!-- ![scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 
-<!-- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) -->
-<!-- ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)![chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=Chai&logoColor=white)![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)\ -->
-
-<!-- ![storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
-<!-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
-<!-- ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) -->
-<!-- ![redwoodjs](https://img.shields.io/badge/redwoodjs-BF4722?style=for-the-badge&logo=redwoodjs&logoColor=white) -->
-<!-- ![angular.js](https://img.shields.io/badge/angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=black) -->
-<!-- ![gatsby](https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) -->
-<!-- ![prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white) -->
-
 <!-- ![elixir](https://img.shields.io/badge/elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) -->
 <!-- ![go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
 <!-- ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
 <!-- ![solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) -->
-
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
-<!-- ![git kraken](https://img.shields.io/badge/git_kraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white) -->
-<!-- ![github actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) -->
-<!-- ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
-<!-- ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
-<!-- ![lets_encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white) -->
-
-<!-- ![apache kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) -->
-<!-- ![apache cassandra](https://img.shields.io/badge/apache_cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white) -->
 
 ## 📫 Find me on
 
