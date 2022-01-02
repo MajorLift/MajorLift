@@ -1,4 +1,5 @@
 # Hi, I'm Jongsun! 👋
+🗣 Jongsun rhymes with wholesome.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=)
 
