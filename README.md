@@ -12,7 +12,7 @@
 - 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator*
 - 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding*
 #### Original Projects
-- 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *WIP* - A series of brain teasers and practical challenges that will expose you to every major frontend technology.
+- 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *WIP* - Progressively build up a tic-tac-toe game into a online multiplayer, multi-room competitive sudoku gaming platform. Spoiler alert: the real treasure is the technologies we learn along the way. 
 
 
 <!--  Github Extra Pins  -->
