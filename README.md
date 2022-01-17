@@ -14,7 +14,8 @@
 - ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *WIP* - Perform complex three-way merges without ever leaving VS Code. 
   - The Caduceus extension enables 3-pane diff visualization and interactive conflict resolution. 
   - It also supports easy manual override of diff output alignment, moved blocks detection, ignore settings, and more.
-- 🎹 [**Banter**]():  *Ideation* - Collaborative music-making Electron app themed as turn-based game with loop-based, session-view, multi-track DAW, video chat, interactive cursor position sharing, and spectator mode. 
+- 🎹 [**Banter**]():  *Ideation* - Collaborative music-making app themed as turn-based game with loop-based session-view DAW, video chat, interactive cursor position sharing, and spectator gallery. 
+  - Deployment: Electron client + stream-processing backend.
   - Challenges:
     - Latency compensation between shared playback and live audio feed. 
     - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow. 
