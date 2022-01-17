@@ -11,8 +11,14 @@
 - 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding*
 <!-- - ⽊ [**Sapling**](https://github.com/MajorLift/sapling/branches/all): Interactive React component hierarchy and dependency tree visualizer. -->
 #### Original Projects
+- ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *WIP* - Perform complex three-way merges without ever leaving VS Code. 
+  - The Caduceus extension enables 3-pane diff visualization and interactive conflict resolution. 
+  - It also supports easy manual override of diff output alignment, moved blocks detection, ignore settings, and more.
+- 🎹 [**Banter**]():  *Ideation* - Collaborative music-making Electron app themed as turn-based game with loop-based, session-view, multi-track DAW, video chat, interactive cursor position sharing, and spectator mode. 
+  - Challenges:
+    - Latency compensation between shared playback and live audio feed. 
+    - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow. 
 - 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *WIP* - Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
-
 
 <!--  Github Extra Pins  -->
 <!-- [![Swell](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Swell&theme=)](https://github.com/open-source-labs/swell)\ -->
