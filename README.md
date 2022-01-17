@@ -12,7 +12,7 @@
 <!-- - ⽊ [**Sapling**](https://github.com/MajorLift/sapling/branches/all): Interactive React component hierarchy and dependency tree visualizer. -->
 #### Original Projects
 - ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *WIP* - Perform complex three-way merges without ever leaving VS Code. 
-  - The Caduceus extension enables 3-pane diff visualization and interactive conflict resolution. 
+  - The Caduceus extension provides 3-pane diff visualization and interactive conflict resolution. 
   - It also supports easy manual override of diff output alignment, moved blocks detection, ignore settings, and more.
 - 🎹 [**Banter**]():  *Ideation* - Collaborative music-making app themed as turn-based game with loop-based session-view DAW, video chat, interactive cursor position sharing, and spectator gallery. 
   - Deployment: Electron client + stream-processing backend.
