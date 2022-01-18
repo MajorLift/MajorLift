@@ -14,7 +14,7 @@
 - ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *WIP* - Perform complex three-way merges without ever leaving VS Code. 
   - The Caduceus extension provides 3-pane diff visualization and interactive conflict resolution. 
   - It also supports easy manual override of diff output alignment, moved blocks detection, ignore settings, and more.
-- 🎹 [**Banter**]():  *Ideation* - Drop a banger with your friends by taking turns jamming it out and laying it down — one killer track at a time. 
+- 🎹 [**Banter**]():  *Ideation* - Turn-based collaborative music-making: Bounce ideas back and forth, not tracks. 
 <!-- themed as turn-based game with loop-based session-view DAW, video chat, interactive cursor position sharing, and spectator gallery. 
   - Deployment: Electron client + stream-processing backend.
   - Challenges:
