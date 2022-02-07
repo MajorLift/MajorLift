@@ -5,22 +5,22 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=)](https://github.com/majorlift/github-readme-stats) -->
 
 ## 🔭 Currently working on
-#### Open-Source Contributions
-- 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
-- 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator*
-- 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding*
+<!-- #### Open-Source Contributions -->
+<!-- - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs. -->
+<!-- - 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator* -->
+<!-- - 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding* -->
 <!-- - ⽊ [**Sapling**](https://github.com/MajorLift/sapling/branches/all): Interactive React component hierarchy and dependency tree visualizer. -->
-#### Original Projects
-- ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *WIP* - Perform complex three-way merges without ever leaving VS Code. 
-  - The Caduceus extension provides 3-pane diff visualization and interactive conflict resolution. 
-  - It also supports easy manual override of diff output alignment, moved blocks detection, ignore settings, and more.
-- 🎹 [**Banter**](https://github.com/MajorLift/Banter):  *Ideation* - Turn-based collaborative music-making: Bounce ideas back and forth, not tracks. 
+<!-- #### Original Projects -->
+- ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): Perform three-way merges without ever leaving VS Code. 
+<!--   - The Caduceus extension provides 3-pane diff visualization and interactive conflict resolution. 
+  - It also supports easy manual override of diff output alignment, moved blocks detection, ignore settings, and more. -->
+- 🎹 [**Banter**](https://github.com/MajorLift/Banter): Turn-based collaborative music-making — bounce ideas back and forth, not tracks. 
 <!-- themed as turn-based game with loop-based session-view DAW, video chat, interactive cursor position sharing, and spectator gallery. 
   - Deployment: Electron client + stream-processing backend.
   - Challenges:
     - Latency compensation between shared playback and live audio feed. 
     - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow.  -->
-- 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *WIP* - Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
+- 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
 
 <!--  Github Extra Pins  -->
 <!-- [![Swell](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Swell&theme=)](https://github.com/open-source-labs/swell)\ -->
@@ -42,13 +42,13 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-F37626?style=for-the-badge&logo=python&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)\
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES12-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## 🌱 I'm learning
+<!-- ## 🌱 I'm learning
 - [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-distributed-applications/dp/1838430202)
 - [Microservices Architecture Design Patterns](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/)
 - [GoF Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming/)
-- [![terraform](https://img.shields.io/badge/terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://learn.hashicorp.com/collections/terraform/aws)
-
+ -->
+<!-- - [![terraform](https://img.shields.io/badge/terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://learn.hashicorp.com/collections/terraform/aws) -->
 <!-- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) -->
 <!-- ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) -->
 <!-- ![angular.js](https://img.shields.io/badge/angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=black) -->
