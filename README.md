@@ -35,12 +35,12 @@
 ## 🛠 Tools
 
 ![VSCode](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)![Eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white)![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)\
-![electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)![docker compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)![AWS](https://img.shields.io/badge/Elastic_Beanstalk-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)![docker compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)![AWS](https://img.shields.io/badge/Amazon_ECS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 👄 Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-F37626?style=for-the-badge&logo=python&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)\
-![JavaScript](https://img.shields.io/badge/JavaScript_ES12-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ESNext-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <!-- ## 🌱 I'm learning
 - [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-distributed-applications/dp/1838430202)
