@@ -5,22 +5,27 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=)](https://github.com/majorlift/github-readme-stats) -->
 
 ## 🔭 Currently working on
-<!-- #### Open-Source Contributions -->
-<!-- - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs. -->
-<!-- - 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator* -->
-<!-- - 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding* -->
-<!-- - ⽊ [**Sapling**](https://github.com/MajorLift/sapling/branches/all): Interactive React component hierarchy and dependency tree visualizer. -->
-<!-- #### Original Projects -->
-- ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): Perform three-way merges without ever leaving VS Code. 
+#### Core Team
+- 👥 [**Tandem**](https://github.com/cryptagon): Recreating the serendipity, ambient awareness, and frictionless flow of in-person collaboration.
+- 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
+
+#### Original Projects
+- ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *Ideation* - Perform three-way merges without ever leaving VS Code. 
 <!--   - The Caduceus extension provides 3-pane diff visualization and interactive conflict resolution. 
   - It also supports easy manual override of diff output alignment, moved blocks detection, ignore settings, and more. -->
-- 🎹 [**Banter**](https://github.com/MajorLift/Banter): Turn-based collaborative music-making — bounce ideas back and forth, not tracks. 
+- 🎹 [**Banter**](https://github.com/MajorLift/Banter): *Ideation* - Turn-based collaborative music-making — bounce ideas back and forth, not tracks. 
 <!-- themed as turn-based game with loop-based session-view DAW, video chat, interactive cursor position sharing, and spectator gallery. 
   - Deployment: Electron client + stream-processing backend.
   - Challenges:
     - Latency compensation between shared playback and live audio feed. 
     - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow.  -->
-- 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
+- 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *Ideation* - Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
+
+#### Contributions: [Sapling](https://github.com/MajorLift/sapling/branches/all), [secure-electron-template](https://github.com/reZach/secure-electron-template), [Parse Server](https://github.com/parse-community/parse-server/issues/7744), [Hack for LA](https://github.com/hackforla)
+
+<!-- - 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator* -->
+<!-- - 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding* -->
+<!-- ⽊ : Interactive React component hierarchy and dependency tree visualizer. -->
 
 <!--  Github Extra Pins  -->
 <!-- [![Swell](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Swell&theme=)](https://github.com/open-source-labs/swell)\ -->
