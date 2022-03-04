@@ -6,7 +6,7 @@
 
 ## 🔭 Currently working on
 #### Core Team
-- 👥 [**Tandem**](https://github.com/cryptagon): Virtual office solution that recreates the serendipity, ambient awareness, and frictionless flow of in-person collaboration.
+- 👥 [**Tandem**](https://github.com/cryptagon): Recreating the serendipity, ambient awareness, and frictionless flow of in-person collaboration.
 
 - 🏠 [**HackForLA/HomeUniteUs**](https://github.com/hackforla/HomeUniteUs): Workflow management tool for matching homeless youths with hosts who can provide a stable housing environment.
 
