@@ -6,9 +6,9 @@
 
 ## 🔭 Currently working on
 #### Core Team
-- 👥 [**Tandem**](https://github.com/cryptagon): Recreating the serendipity, ambient awareness, and frictionless flow of in-person collaboration.
+- 👥 [**Tandem**](https://github.com/cryptagon): Virtual office solution that recreates the serendipity, ambient awareness, and frictionless flow of in-person collaboration.
 
-- 🏠 [**HackForLA/HomeUniteUs**](https://github.com/hackforla/HomeUniteUs): Workflow management tool for initiatives that provide stable housing for homeless youths by matching them with hosts.
+- 🏠 [**HackForLA/HomeUniteUs**](https://github.com/hackforla/HomeUniteUs): Workflow management tool for matching homeless youths with hosts who can provide a stable housing environment.
 
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
 
