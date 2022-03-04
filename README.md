@@ -7,6 +7,9 @@
 ## 🔭 Currently working on
 #### Core Team
 - 👥 [**Tandem**](https://github.com/cryptagon): Recreating the serendipity, ambient awareness, and frictionless flow of in-person collaboration.
+
+- 🏠 [**HackForLA/HomeUniteUs**](https://github.com/hackforla/HomeUniteUs): Workflow management tool for initiatives that provide stable housing for homeless youths by matching them with hosts.
+
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
 
 #### Original Projects
@@ -21,7 +24,8 @@
     - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow.  -->
 - 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *Ideation* - Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
 
-#### Contributions: [Sapling](https://github.com/MajorLift/sapling/branches/all), [secure-electron-template](https://github.com/reZach/secure-electron-template), [Parse Server](https://github.com/parse-community/parse-server/issues/7744), [Hack for LA](https://github.com/hackforla)
+#### Contributions: [Sapling](https://github.com/MajorLift/sapling/branches/all), [secure-electron-template](https://github.com/reZach/secure-electron-template) 
+<!-- [Parse Server](https://github.com/parse-community/parse-server/issues/7744) -->
 
 <!-- - 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator* -->
 <!-- - 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding* -->
