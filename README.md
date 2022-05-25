@@ -2,29 +2,29 @@
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=)](https://github.com/majorlift/github-readme-stats) -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=)](https://github.com/majorlift/github-readme-stats) -->
 
 ## 🔭 Currently working on
 #### Core Team
-- 👥 [**Tandem**](https://github.com/cryptagon): Recreating the serendipity, ambient awareness, and frictionless flow of in-person collaboration.
+- 👥 [**Tandem**](https://github.com/cryptagon): Recreating the serendipity, ambient awareness, and frictionless flow of face-to-face collaboration in the hybrid workplace.
 
-- 🏠 [**HomeUniteUs**](https://github.com/hackforla/HomeUniteUs): Workflow management tool for matching homeless youths with hosts who can provide a stable housing environment.
+<!-- 
+- 🏠 [**HomeUniteUs**](https://github.com/hackforla/HomeUniteUs): Workflow management tool for matching homeless youths with hosts who can provide a stable housing environment. -->
 
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
 
-#### Original Projects
-- ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *Ideation* - Perform three-way merges without ever leaving VS Code. 
-<!--   - The Caduceus extension provides 3-pane diff visualization and interactive conflict resolution. 
-  - It also supports easy manual override of diff output alignment, moved blocks detection, ignore settings, and more. -->
+<!-- #### Original Projects
+- ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *Ideation* - Perform three-way merges without ever leaving VS Code.
 - 🎹 [**Banter**](https://github.com/MajorLift/Banter): *Ideation* - Turn-based collaborative music-making — bounce ideas back and forth, not tracks. 
-<!-- themed as turn-based game with loop-based session-view DAW, video chat, interactive cursor position sharing, and spectator gallery. 
+- themed as turn-based game with loop-based session-view DAW, video chat, interactive cursor position sharing, and spectator gallery. 
   - Deployment: Electron client + stream-processing backend.
   - Challenges:
     - Latency compensation between shared playback and live audio feed. 
-    - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow.  -->
+    - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow. 
 - 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *Ideation* - Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
-
-#### Contributions: [Sapling](https://github.com/MajorLift/sapling/branches/all), [secure-electron-template](https://github.com/reZach/secure-electron-template) 
+ -->
+#### Contributions: [sapling](https://github.com/MajorLift/sapling/branches/all), [secure-electron-template](https://github.com/reZach/secure-electron-template)
 <!-- [Parse Server](https://github.com/parse-community/parse-server/issues/7744) -->
 
 <!-- - 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator* -->
@@ -101,4 +101,5 @@
 
 ## 📫 Find me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-jongsun-suh)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/major.lift/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-jongsun-suh)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
