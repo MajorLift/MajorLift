@@ -6,11 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=)](https://github.com/majorlift/github-readme-stats) -->
 
 ## 🔭 Currently working on
-#### Core Team
 - 👥 [**Tandem**](https://github.com/cryptagon): Recreating the serendipity, ambient awareness, and frictionless flow of face-to-face collaboration in the hybrid workplace.
-
-<!-- 
-- 🏠 [**HomeUniteUs**](https://github.com/hackforla/HomeUniteUs): Workflow management tool for matching homeless youths with hosts who can provide a stable housing environment. -->
 
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Electron testing client for streaming protocols and event-driven APIs.
 
@@ -24,7 +20,7 @@
     - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow. 
 - 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *Ideation* - Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
  -->
-#### Contributions: [sapling](https://github.com/MajorLift/sapling/branches/all), [secure-electron-template](https://github.com/reZach/secure-electron-template)
+<!-- #### Contributions: [sapling](https://github.com/MajorLift/sapling/branches/all), [secure-electron-template](https://github.com/reZach/secure-electron-template) -->
 <!-- [Parse Server](https://github.com/parse-community/parse-server/issues/7744) -->
 
 <!-- - 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator* -->
