@@ -11,7 +11,7 @@
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Desktop testing client for streaming protocols. 
 
 ## 🌟 Latest obsessions
-- λ𝓍 [**Type Challenges**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language. Having a blast solving the challenges and contributing [new](https://github.com/type-challenges/type-challenges/issues/21419) [solutions](https://github.com/type-challenges/type-challenges/issues/21260) and [test](https://github.com/type-challenges/type-challenges/pull/21420) [cases](https://github.com/type-challenges/type-challenges/pull/21421). 
+- λ𝓍 [**Type Challenges**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language. Having a blast solving the challenges and contributing [new](https://github.com/type-challenges/type-challenges/issues/21601) [solutions](https://github.com/type-challenges/type-challenges/issues/21419) and [test](https://github.com/type-challenges/type-challenges/pull/21420) [cases](https://github.com/type-challenges/type-challenges/pull/21421). 
 
 - ⛓️ [**Martin Kleppmann**](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)'s lecture series based on his book `Designing Data-Intensive Applications`.
 
