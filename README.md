@@ -8,6 +8,8 @@
 ## 🧑🏻‍💻 Currently working on
 - 👥 [**Tandem**](https://github.com/cryptagon): A virtual office and remote conferencing solution — recreating the frictionless flow, ambient awareness, and serendipity of in-person collaboration.
 
+- λ𝓍 [**HKT Toolbelt**](https://github.com/poteat/hkt-toolbelt): Functional type-level utilities for TypeScript that are composable using higher-kinded types.
+
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Desktop testing client for streaming protocols. 
 
 ## 🌟 Latest obsessions
