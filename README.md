@@ -1,21 +1,24 @@
 # Hi, I'm Jongsun! 👋
+Jongsun rhymes with "ocean."
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=) -->
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=night)](https://github.com/majorlift/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=night)](https://github.com/majorlift/github-readme-stats) -->
 
 ## 🧑🏻‍💻 Currently working on
-- 👥 [**Tandem**](https://github.com/cryptagon): A virtual office and remote conferencing solution — recreating the frictionless flow, ambient awareness, and serendipity of in-person collaboration.
 
-- λ𝓍 [**HKT Toolbelt**](https://github.com/poteat/hkt-toolbelt): Functional type-level utilities for TypeScript that are composable using higher-kinded types.
+- λ𝓍 [**HKT Toolbelt**](https://github.com/poteat/hkt-toolbelt): TypeScript library for functional and composable higher-kinded type-level utilities.
+
+- ⽊ [**React Component Tree**](https://github.com/hb1998/react-component-tree): VS Code Extension for interactive React component hierarchy visualization.
+
+## 💾 Previously worked on
+
+- 👥 [**Tandem**](https://github.com/cryptagon): A virtual office and remote conferencing solution — recreating the frictionless flow, ambient awareness, and serendipity of in-person collaboration.
 
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Desktop testing client for streaming protocols. 
 
 ## 🌟 Latest obsessions
 - λ𝓍 [**Type Challenges**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language. Having a blast solving the challenges and contributing [new solutions]([https://github.com/type-challenges/type-challenges/issues/21419](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift)) and [test](https://github.com/type-challenges/type-challenges/pull/21420) [cases](https://github.com/type-challenges/type-challenges/pull/21421). 
-
-- ⛓️ [**Martin Kleppmann**](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)'s lecture series based on his book `Designing Data-Intensive Applications`.
 
 ## 🎵 Chord progression of the day
 `[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`
