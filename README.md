@@ -8,7 +8,7 @@
 
 - λ𝓍 [**HKT Toolbelt**](https://github.com/poteat/hkt-toolbelt): TypeScript library for functional and composable higher-kinded type-level utilities.
 
-- ⽊ [**React Component Tree**](https://github.com/hb1998/react-component-tree): VS Code Extension for interactive React component hierarchy visualization.
+- ⽊  [**React Component Tree**](https://github.com/hb1998/react-component-tree): VS Code Extension for interactive React component hierarchy visualization.
 
 ## 💾 Previously worked on
 
@@ -17,7 +17,7 @@
 - 🌊 [**Swell**](https://github.com/open-source-labs/swell): Desktop testing client for streaming protocols. 
 
 ## 🌟 Latest obsessions
-- λ𝓍 [**Type Challenges**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language. Having a blast solving the challenges and contributing [new solutions]([https://github.com/type-challenges/type-challenges/issues/21419](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift)) and [test](https://github.com/type-challenges/type-challenges/pull/21420) [cases](https://github.com/type-challenges/type-challenges/pull/21421). 
+- [**Type Challenges**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language. Having a blast solving the challenges and contributing [new solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift) and test cases. 
 
 ## 🎵 Chord progression of the day
 `[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`
