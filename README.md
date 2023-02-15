@@ -1,8 +1,8 @@
 # Hi, I'm Jongsun! 👋
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=) -->
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majorlift&layout=compact&langs_count=10&theme=night)](https://github.com/majorlift/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=10&hide=jupyter%20notebook,roff&exclude_repo=volatility-modeling-python-datasci,algo1-princeton-sedgewick,data_structures-snu-cse&theme=transparent)
 
 ## 🧑🏻‍💻 Currently working on
 
