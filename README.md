@@ -2,7 +2,7 @@
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=10&hide=jupyter%20notebook,roff&exclude_repo=volatility-modeling-python-datasci,algo1-princeton-sedgewick,data_structures-snu-cse&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=10&hide=jupyter%20notebook,roff&exclude_repo=volatility-modeling-python-datasci,algo1-princeton-sedgewick,data_structures-snu-cse&theme=transparent&hide_title=true&hide_border=true)
 
 ## 🧑🏻‍💻 Currently working on
 
