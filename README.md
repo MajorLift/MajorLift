@@ -2,7 +2,7 @@
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=10&hide=jupyter%20notebook,roff&exclude_repo=volatility-modeling-python-datasci,algo1-princeton-sedgewick,data_structures-snu-cse&theme=transparent&hide_title=true&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=10&hide=jupyter%20notebook,roff&exclude_repo=volatility-modeling-python-datasci,algo1-princeton-sedgewick,data_structures-snu-cse&theme=transparent&hide_title=true&hide_border=true) -->
 
 ## 🧑🏻‍💻 Currently working on
 
@@ -33,16 +33,12 @@
     - Discourage ensemble performance and incentivize asynchronous collaboration. Phase lock can be physically impossible to achieve over wider distances, due to speed of light being too slow. 
 - 🧮 [**Tic-Tac-Toe to Sudoku Challenge**](https://github.com/MajorLift/tictactoe-to-sudoku-challenge): *Ideation* - Evolve a simple tic-tac-toe game into an online multiplayer, multiroom competitive sudoku platform — the real treasure is the technologies we'll learn along the way. 
  -->
-<!-- #### Contributions: [sapling](https://github.com/MajorLift/sapling/branches/all), [secure-electron-template](https://github.com/reZach/secure-electron-template) -->
-<!-- [Parse Server](https://github.com/parse-community/parse-server/issues/7744) -->
-
-<!-- - 🔎 [Parse Server](https://github.com/parse-community/parse-server): *planning and research - feature: OpenAPI server code generator* -->
+<!-- [secure-electron-template](https://github.com/reZach/secure-electron-template) -->
 <!-- - 🍄 [RedwoodJS](https://github.com/redwoodjs): *onboarding* -->
-<!-- ⽊ : Interactive React component hierarchy and dependency tree visualizer. -->
 
 <!--  Github Extra Pins  -->
-<!-- [![Swell](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Swell&theme=)](https://github.com/open-source-labs/swell)\ -->
-<!-- [![Sapling](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Sapling&theme=)](https://github.com/oslabs-beta/sapling) -->
+<!-- [![Swell](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Swell&theme=dracula)](https://github.com/open-source-labs/swell)\ -->
+<!-- [![Sapling](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Sapling&theme=dracula)](https://github.com/oslabs-beta/sapling) -->
 
 ## 🥞 Stack
 
