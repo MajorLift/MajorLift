@@ -179,3 +179,7 @@ SvuQI3jKkOy1EqrBDXhh27zWqnrXbfDJ3CZoOr+JUCaMRbaewo4iweyTK2cn/qFg
 ```
 
 </details>
+
+<!-- ## Storage -->
+<!-- ![screencapture-qualified-io-assess-61ddde38dc736b60401cc8cd-challenges-611d064d17eae900115de0fd-2023-03-14-17_21_37](https://user-images.githubusercontent.com/34228073/225991394-50221e38-e7e5-42bc-9f4e-6e1ca3f6af37.png) -->
+
