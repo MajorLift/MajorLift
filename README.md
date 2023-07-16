@@ -1,8 +1,14 @@
-# Hi, I'm Jongsun! 👋
+# Hi, I'm Jongsun! 👋  
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent) -->
+It's *Joe-ng Son* — kind of rhymes with "*ocean*." 🌊 
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=10&hide=jupyter%20notebook,roff&exclude_repo=volatility-modeling-python-datasci,algo1-princeton-sedgewick,data_structures-snu-cse&theme=transparent&hide_title=true&hide_border=true) -->
+![github stats](https://github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=200)
+![Top Langs](https://github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&size_weight=0.5&count_weight=1&hide=roff,html,elixir&theme=transparent&hide_title=true&hide_border=true&card_width=350)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-jongsun-suh)[![Calendly](https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/jongsun-suh)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
 
 ## 🧑🏻‍💻 Currently working on
 
@@ -18,10 +24,7 @@
 
 ## 🌟 Latest obsessions
 - [**Type Challenges**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language. Having a blast solving the challenges and contributing [new solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift) and test cases. 
-
-## 🎵 Chord progression of the day
-`[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`
-
+- This chord progression: `[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`
 
 <!-- #### Original Projects
 - ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *Ideation* - Perform three-way merges without ever leaving VS Code.
@@ -101,11 +104,6 @@
 <!-- ![go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
 <!-- ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
 <!-- ![solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) -->
-
-## 📫 Find me on
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-jongsun-suh)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
 
 <details>  
   <summary><h3>🔏 PGP Public Key</h3></summary>
