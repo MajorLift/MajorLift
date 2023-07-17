@@ -1,14 +1,14 @@
 # Hi, I'm Jongsun! 👋  
 
-It's *Joe-ng Son* — kind of rhymes with "*ocean*." 🌊 
+It's **Joe-ng Son** — kind of rhymes with "*ocean*." 🌊 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
 
 ![github stats](https://github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=200)
-![Top Langs](https://github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&size_weight=0.5&count_weight=1&hide=roff,html,elixir&theme=transparent&hide_title=true&hide_border=true&card_width=350)
+![Top Langs](https://github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&count_private=true&size_weight=0.5&count_weight=1&hide=roff,html,elixir&theme=transparent&hide_title=true&hide_border=true&card_width=350)
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-jongsun-suh)[![Calendly](https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/jongsun-suh)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jongsun-suh)[![Calendly](https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/jongsun-suh)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
 
 ## 🧑🏻‍💻 Currently working on
 
