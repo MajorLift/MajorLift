@@ -1,6 +1,5 @@
-# Hi, I'm Jongsun! 👋  
+# 👋 Hi, I'm Jongsun ( *joe-ng son*)
 
-It's **Joe-ng Son** — kind of rhymes with "*ocean*." 🌊 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
 <!-- github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=200) -->
