@@ -11,18 +11,20 @@
 
 ## 🧑🏻‍💻 Currently working on
 
-- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): TypeScript library for functional and composable higher-kinded type-level utilities.
+- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): NPM library that brings first-class support for generic types to TypeScript.
 
-- ⽊  [**`React Component Tree`**](https://github.com/hb1998/react-component-tree): VS Code Extension for interactive React component hierarchy visualization.
-
+<!--
 ## 💾 Previously worked on
 
 - 👥 [**`Tandem`**](https://github.com/cryptagon): A virtual office and remote conferencing solution — recreating the frictionless flow, ambient awareness, and serendipity of in-person collaboration.
 
-- 🌊 [**`Swell`**](https://github.com/open-source-labs/swell): Desktop testing client for streaming protocols. 
+- 🌊 [**`Swell`**](https://github.com/open-source-labs/swell): Desktop testing client for streaming protocols.
+
+- ⽊  [**`React Component Tree`**](https://github.com/hb1998/react-component-tree): VS Code Extension for interactive React component hierarchy visualization.
+-->
 
 ## 🌟 Latest obsessions
-- [**`Type Challenges`**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language. Having a blast solving the challenges and contributing [new solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift) and test cases. 
+- [**`Type Challenges`**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language ([My solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift)).
 - This chord progression: `[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`
 
 <!-- #### Original Projects
