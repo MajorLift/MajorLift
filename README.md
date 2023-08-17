@@ -11,7 +11,7 @@
 
 ## 🧑🏻‍💻 Currently working on
 
-- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): NPM library that brings first-class support for generic types to TypeScript.
+- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): `npm` library for functional and composable type utilities that brings first-class support for generic types to TypeScript.
 
 <!--
 ## 💾 Previously worked on
