@@ -24,8 +24,8 @@
 -->
 
 ## 🌟 Latest obsessions
-- [**`Type Challenges`**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language ([My solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift)).
-- This chord progression: `[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`
+- 🧠 [**`Type Challenges`**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language ([My solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift)).
+- ♫ This chord progression: `[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`𝄇
 
 <!-- #### Original Projects
 - ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *Ideation* - Perform three-way merges without ever leaving VS Code.
