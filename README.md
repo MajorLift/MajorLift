@@ -7,7 +7,9 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jongsun-suh)[![Calendly](https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/jongsun-suh)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jongsun-suh)[![Calendly](https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/jongsun-suh)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/577783127292772367)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
+
+<!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=discord&logoColor=white)](https://www.reddit.com/user/KnotInKansas/?sort=top) -->
 
 ## 🧑🏻‍💻 Currently working on
 
