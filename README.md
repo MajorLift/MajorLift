@@ -13,7 +13,7 @@
 
 ## 🧑🏻‍💻 Currently working on
 
-- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): npm library for functional and composable type utilities that brings first-class support for generic types to TypeScript.
+- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): TypeScript NPM library for first-class generics and functional, composable type utilities.
 
 <!--
 ## 💾 Previously worked on
