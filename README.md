@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jongsun ( *joe-ng son*)
+# 👋 Hi, I'm Jongsun ( *joe-ng son*)!
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
 <!-- github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app -->
@@ -6,15 +6,20 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&count_private=true&size_weight=0.5&count_weight=1&hide=roff,html,elixir&theme=transparent&hide_title=true&hide_border=true&card_width=350) -->
 <!-- ![MajorLift's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=MajorLift&combine_all_yearly_contributions=true&hide=B) -->
 
+<!--
 ## 🤝 Let's Connect
+-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jongsun-suh)[![Calendly](https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/jongsun-suh)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/577783127292772367)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
 
+
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=discord&logoColor=white)](https://www.reddit.com/user/KnotInKansas/?sort=top) -->
 
+<!--
 ## 🧑🏻‍💻 Currently working on
 
 - λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): TypeScript NPM library for first-class generics and functional, composable type utilities.
+-->
 
 <!--
 ## 💾 Previously worked on
@@ -26,9 +31,11 @@
 - ⽊  [**`React Component Tree`**](https://github.com/hb1998/react-component-tree): VS Code Extension for interactive React component hierarchy visualization.
 -->
 
+<!--
 ## 🌟 Latest obsessions
 - 🧠 [**`Type Challenges`**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language ([My solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift)).
 - ♫ This chord progression: `[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`𝄇
+-->
 
 <!-- #### Original Projects
 - ☤ [**Caduceus**](https://github.com/MajorLift/Caduceus): *Ideation* - Perform three-way merges without ever leaving VS Code.
@@ -47,6 +54,7 @@
 <!-- [![Swell](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Swell&theme=dracula)](https://github.com/open-source-labs/swell)\ -->
 <!-- [![Sapling](https://github-readme-stats.vercel.app/api/pin/?username=majorlift&repo=Sapling&theme=dracula)](https://github.com/oslabs-beta/sapling) -->
 
+<!--
 ## 🥞 Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -54,13 +62,11 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)![docker compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)![openapi](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white)![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
-<!--
-![electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)![webrtc](https://img.shields.io/badge/WebRTC-4285f4?style=for-the-badge&logo=webrtc&logoColor=white)![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
--->
-
 ## 👄 Languages
 
 ![Python](https://img.shields.io/badge/Python-F37626?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+-->
+
 
 <!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)-->
 
