@@ -1,39 +1,53 @@
 # 👋 Hi, I'm Jongsun ( *joe-ng son*)
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
-<!-- github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app -->
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=200) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&count_private=true&size_weight=0.5&count_weight=1&hide=roff,html,elixir&theme=transparent&hide_title=true&hide_border=true&card_width=350) -->
-<!-- ![MajorLift's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=MajorLift&combine_all_yearly_contributions=true&hide=B) -->
-
-<!--
-## 🤝 Let's Connect
--->
-
-[![EMail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jongsun.dev+gh@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jongsun-suh)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/577783127292772367)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
-
 <!-- [![Calendly](https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/jongsun-suh) -->
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=discord&logoColor=white)](https://www.reddit.com/user/KnotInKansas/?sort=top) -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
 
-<!--
+
+When I’m not writing code, I’m passionate about reviewing films — which are just code with multilayer-network user journeys, devouring books — which are just code with unbounded levels of abstraction, and creating music — which is just code with more beautiful notation.
+
+<!-- github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app -->
+![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&count_private=true&size_weight=0.05&count_weight=0.95&hide=roff,html,css,elixir&exclude_repo=algs4-princeton,machine-learning-andrew-ng&theme=transparent&hide_title=true&hide_border=true&card_width=350)
+<!-- ![MajorLift's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=MajorLift&combine_all_yearly_contributions=true&hide=B) -->
+
 ## 🧑🏻‍💻 Currently working on
 
-- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): TypeScript NPM library for first-class generics and functional, composable type utilities.
--->
+- 🦊 [**`MetaMask`**](https://github.com/MetaMask/core): TypeScript/Node.js controllers, providers, middleware, engines used by MetaMask clients. 
 
-<!--
+<p>
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?activity=participants&period=past_90_days&owner_id=11744586" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?activity=participants&period=past_90_days&owner_id=11744586&image_size=4x3&color_scheme=dark" width="auto" height="465">
+    <img alt="Active participants of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?activity=participants&period=past_90_days&owner_id=11744586&image_size=4x3&color_scheme=light" width="auto" height="465">
+  </picture>
+</a>
+<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=11744586&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_28_days&image_size=5x5&color_scheme=dark" width="auto" height="465">
+    <img alt="Most engaged people of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_28_days&image_size=5x5&color_scheme=light" width="auto" height="465">
+  </picture>
+</a>
+</p>
+
+- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): TypeScript library for powerful first-class generics and functional, composable type utilities.
+
 ## 💾 Previously worked on
 
 - 👥 [**`Tandem`**](https://github.com/cryptagon): A virtual office and remote conferencing solution — recreating the frictionless flow, ambient awareness, and serendipity of in-person collaboration.
 
+<!--
 - 🌊 [**`Swell`**](https://github.com/open-source-labs/swell): Desktop testing client for streaming protocols.
+-->
+
+- 🧠 [**`Type Challenges`**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language ([My solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift)).
 
 - ⽊  [**`React Component Tree`**](https://github.com/hb1998/react-component-tree): VS Code Extension for interactive React component hierarchy visualization.
--->
 
 <!--
 ## 🌟 Latest obsessions
-- 🧠 [**`Type Challenges`**](https://github.com/type-challenges/type-challenges): Brain teasers for the purely-functional TypeScript type language ([My solutions](https://github.com/type-challenges/type-challenges/issues/created_by/MajorLift)).
+
 - ♫ This chord progression: `[BbM9 - AbM9/C] - [AbM9 - FM9/A] - [GbM9 - Fm11] - [Dm11 - DbM9]`𝄇
 -->
 
@@ -114,10 +128,14 @@
 <!-- ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
 <!-- ![solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) -->
 
+## 🤝 Let's Connect
+
+[![EMail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jongsun.dev+gh@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jongsun-suh)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/577783127292772367)[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/major-lift/sets/jongsuns-songs)
+
 <details>  
   <summary><h3>🔏 PGP Public Key</h3></summary>
 
-```
+```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGPr8A4BEADG/85+7ZJUEgcTnCpowZLPFF8ZYsSR/j34l+W72KkHF31huAqi
