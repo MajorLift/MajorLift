@@ -8,9 +8,24 @@
 When I’m not writing code, I’m passionate about reviewing films — which are just code with multilayer-network user journeys, devouring books — which are just code with unbounded levels of abstraction, and creating music — which is just code with more beautiful notation.
 
 <!-- github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app -->
-![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=200)
+![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=250)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&count_private=true&size_weight=0.05&count_weight=0.95&hide=roff,html,css,elixir&exclude_repo=algs4-princeton,machine-learning-andrew-ng&theme=transparent&hide_title=true&hide_border=true&card_width=350)
 <!-- ![MajorLift's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=MajorLift&combine_all_yearly_contributions=true&hide=B) -->
+
+<!--
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=34228073&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=34228073&activity_type=all&color_scheme=dark" width="auto" height="200">
+    <img alt="@MajorLift's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=34228073&activity_type=all&color_scheme=light" width="auto" height="200">
+  </picture>
+</a>
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=34228073&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=34228073&period=all_times&timezone=utc-7&image_size=auto&color_scheme=dark" width="auto" height="200">
+    <img alt="Contribution Time Distribution of @MajorLift" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=34228073&period=all_times&image_size=auto&color_scheme=light" width="auto" height="200">
+  </picture>
+</a>
+-->
 
 ## 🧑🏻‍💻 Currently working on
 
@@ -19,14 +34,14 @@ When I’m not writing code, I’m passionate about reviewing films — which ar
 <p>
 <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?activity=participants&period=past_90_days&owner_id=11744586" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?activity=participants&period=past_90_days&owner_id=11744586&image_size=4x3&color_scheme=dark" width="auto" height="465">
-    <img alt="Active participants of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?activity=participants&period=past_90_days&owner_id=11744586&image_size=4x3&color_scheme=light" width="auto" height="465">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?activity=participants&period=past_90_days&owner_id=11744586&image_size=4x3&color_scheme=dark" width="auto" height="450">
+    <img alt="Active participants of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?activity=participants&period=past_90_days&owner_id=11744586&image_size=4x3&color_scheme=light" width="auto" height="450">
   </picture>
 </a>
 <a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=11744586&period=past_28_days" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_28_days&image_size=5x5&color_scheme=dark" width="auto" height="465">
-    <img alt="Most engaged people of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_28_days&image_size=5x5&color_scheme=light" width="auto" height="465">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_28_days&image_size=5x5&color_scheme=dark" width="auto" height="450">
+    <img alt="Most engaged people of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_28_days&image_size=5x5&color_scheme=light" width="auto" height="450">
   </picture>
 </a>
 </p>
