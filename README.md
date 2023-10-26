@@ -5,7 +5,7 @@
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majorlift/) -->
 
 
-When I’m not writing code, I’m passionate about reviewing films — which are just code with multilayer-network user journeys, devouring books — which are just code with unbounded levels of abstraction, and creating music — which is just code with more beautiful notation.
+When I’m not writing code, I’m passionate about reviewing films, which are just code with multilayer-network user journeys; devouring books, which are just code with unbounded levels of abstraction; and creating music, which is just code with more beautiful notation.
 
 <!-- github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=majorlift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=250)
