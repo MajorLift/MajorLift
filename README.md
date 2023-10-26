@@ -29,7 +29,7 @@ When I’m not writing code, I’m passionate about reviewing films — which ar
 
 ## 🧑🏻‍💻 Currently working on
 
-- 🦊 [**`MetaMask Core`**](https://github.com/MetaMask/core): The backend of MetaMask. Controllers, providers, middleware, engines used by MetaMask clients and services. 
+- 🦊 [**`MetaMask Core`**](https://github.com/MetaMask/core): Controllers, providers, middleware, engines used by MetaMask clients and services. 
 
 <p>
 <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?activity=participants&period=past_90_days&owner_id=11744586" target="_blank" style="display: block" align="center">
