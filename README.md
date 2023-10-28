@@ -31,11 +31,19 @@ When I’m not writing code, I’m passionate about reviewing films, which are j
 
 - 🦊 [**`MetaMask Core`**](https://github.com/MetaMask/core): Controllers, providers, middleware, engines used by MetaMask clients and services. 
 
-<p>
+<!--
 <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?activity=participants&period=past_90_days&owner_id=11744586" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?activity=participants&period=past_90_days&owner_id=11744586&image_size=4x3&color_scheme=dark" width="auto" height="450">
     <img alt="Active participants of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?activity=participants&period=past_90_days&owner_id=11744586&image_size=4x3&color_scheme=light" width="auto" height="450">
+  </picture>
+</a>
+-->
+<p>
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&period=past_28_days&owner_id=11744586" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=11744586&image_size=4x3&color_scheme=dark" width="auto" height="450">
+    <img alt="Active participants of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=11744586&image_size=4x3&color_scheme=light" width="auto" height="450">
   </picture>
 </a>
 <a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=11744586&period=past_28_days" target="_blank" style="display: block" align="center">
