@@ -46,10 +46,10 @@ When I’m not writing code, I’m passionate about reviewing films, which are j
     <img alt="Active participants of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=11744586&image_size=4x3&color_scheme=light" width="auto" height="450">
   </picture>
 </a>
-<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=11744586&period=past_28_days" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=11744586&period=past_90_days" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_28_days&image_size=5x5&color_scheme=dark" width="auto" height="450">
-    <img alt="Most engaged people of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_28_days&image_size=5x5&color_scheme=light" width="auto" height="450">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_90_days&image_size=5x5&color_scheme=dark" width="auto" height="450">
+    <img alt="Most engaged people of MetaMask" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11744586&period=past_90_days&image_size=5x5&color_scheme=light" width="auto" height="450">
   </picture>
 </a>
 </p>
