@@ -29,7 +29,8 @@ When I’m not writing code, I’m passionate about reviewing films, which are j
 
 ## 🧑🏻‍💻 Currently working on
 
-- 🦊 [**`MetaMask Core`**](https://github.com/MetaMask/core): Maintaining and extending the controllers, middleware, providers, and engines that power MetaMask clients and enable strategic product initiatives.
+- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): TypeScript library for powerful first-class generics and functional, composable type utilities.
+- 🦊 [**`MetaMask Core`**](https://github.com/MetaMask/core): Extending the core wallet API that powers MetaMask's clients and strategic product initiatives.
 
 <!--
 <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?activity=participants&period=past_90_days&owner_id=11744586" target="_blank" style="display: block" align="center">
@@ -53,8 +54,6 @@ When I’m not writing code, I’m passionate about reviewing films, which are j
   </picture>
 </a>
 </p>
-
-- λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): TypeScript library for powerful first-class generics and functional, composable type utilities.
 
 ## 💾 Previously worked on
 
