@@ -8,8 +8,8 @@
 When I’m not writing code, I’m passionate about reviewing films, which are just code with multilayer-network user journeys; devouring books, which are just code with unbounded levels of abstraction; and creating music, which is just code with more beautiful notation.
 
 <!-- github-readme-stats-ncbd-i407e7ist-majorlift.vercel.app -->
-![github stats](https://github-readme-stats.vercel.app/api?username=MajorLift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=250)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&count_private=true&size_weight=0.05&count_weight=0.95&hide=javascript,roff,html,css,elixir&exclude_repo=algs4-princeton,machine-learning-andrew-ng&theme=transparent&hide_title=true&hide_border=true&card_width=350)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=MajorLift&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true&card_width=250) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorLift&layout=compact&langs_count=8&count_private=true&size_weight=0.05&count_weight=0.95&hide=javascript,roff,html,css,elixir&exclude_repo=algs4-princeton,machine-learning-andrew-ng&theme=transparent&hide_title=true&hide_border=true&card_width=350) -->
 <!-- ![MajorLift's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=MajorLift&combine_all_yearly_contributions=true&hide=B) -->
 
 <!--
