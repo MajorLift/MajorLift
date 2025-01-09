@@ -30,7 +30,6 @@ When I’m not writing code, I’m passionate about reviewing films, which are j
 ## 🧑🏻‍💻 Currently working on
 
 - λ𝓍 [**`hkt Toolbelt`**](https://github.com/poteat/hkt-toolbelt): TypeScript library for functional, composable type utilities built with powerful first-class generics.
-- 🦊 [**`MetaMask Core`**](https://github.com/MetaMask/core): Core libraries that power MetaMask.
 
 <p>
   <!--
