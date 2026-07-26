@@ -1,6 +1,33 @@
-# 👋 Hi, I'm Jongsun ( *joe-ng son*)
+## Jongsun Suh
 
-When I’m not writing code, I’m passionate about reviewing films, which are just code with multilayer-network user journeys; devouring books, which are just code with unbounded levels of abstraction; and creating music, which is just code with more beautiful notation.
+Senior software engineer at MetaMask (Consensys), on the extension platform team.
+Economics BA, Seoul National University.
+
+I study what humans actually contribute when they work with AI coding agents, and
+which parts of that contribution rising capability can absorb. Some interventions
+transfer knowledge, some transfer only authority, and only the knowledge-bearing kind
+is absorbable.
+
+### Writing
+
+- [Grounds, Frames, and Standing: Human Interventions in Agentic Work and the Limits of Delegation](https://jongsun.dev/papers/grounds-frames-standing/), working paper, 2026
+- [When the Agent Stands to Lose Something](https://jongsun.dev/when-the-agent-stands-to-lose-something/), on liability, deterrence, and what it takes to own a failure
+- [When, If Ever, Will AI Agents Stop Needing Us?](https://jongsun.dev/when-if-ever-agents-stop-needing-us/), a taxonomy of human interventions drawn from my own practice record
+- [AI as Scaffold, Not Oracle](https://jongsun.dev/ai-as-scaffold-not-oracle/), on declaring the cognitive mode before the content
+- [Modelling Volatility and Risk Spillover Between US and Chinese Financial Markets](https://doi.org/10.5281/zenodo.21507695), undergraduate thesis, 2020
+
+### Open source
+
+- [agent-guardrails](https://github.com/MajorLift/agent-guardrails), PreToolUse hooks for
+  Claude Code that block and redirect instead of asking the model to remember. With tests.
+- [hkt-toolbelt](https://github.com/poteat/hkt-toolbelt), higher-kinded types for TypeScript.
+  Built the arithmetic and list layers, plus the stress-test and API-docs pipelines.
+- [type-challenges](https://github.com/type-challenges/type-challenges/issues?q=author%3AMajorLift),
+  solutions to hard and extreme-tier type-level puzzles, with explanations.
+- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md),
+  the org-wide style guide.
+
+[jongsun.dev](https://jongsun.dev) · [ORCID](https://orcid.org/0009-0003-5053-4246) · [LinkedIn](https://www.linkedin.com/in/jongsun-suh/)
 
 <details>  
   <summary><h3>🔏 PGP Public Key</h3></summary>
