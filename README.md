@@ -1,18 +1,12 @@
 ## Jongsun Suh
 
-Senior software engineer at MetaMask (Consensys), on the extension platform team.
-Economics BA, Seoul National University.
-
-I study what humans actually contribute when they work with AI coding agents, and
-which parts of that contribution rising capability can absorb. Some interventions
-transfer knowledge, some transfer only authority, and only the knowledge-bearing kind
-is absorbable.
+I'm studying the nature of human contributions in collaborations with AI coding agents. Interventions that transfer knowledge or frames will presumably become redundant with improvements in agent capability. However, my conjecture is that interventions that solely transfer standing are irreplaceable.
 
 ### Writing
 
-- [Grounds, Frames, and Standing: Human Interventions in Agentic Work and the Limits of Delegation](https://jongsun.dev/papers/grounds-frames-standing/), working paper, 2026
-- [When the Agent Stands to Lose Something](https://jongsun.dev/when-the-agent-stands-to-lose-something/), on liability, deterrence, and what it takes to own a failure
-- [When, If Ever, Will AI Agents Stop Needing Us?](https://jongsun.dev/when-if-ever-agents-stop-needing-us/), a taxonomy of human interventions drawn from my own practice record
+- [Grounds, Frames, and Standing: Human Interventions in Agentic Work and the Limits of Delegation](https://jongsun.dev/papers/grounds-frames-standing/), working paper, 2026.
+- [When the Agent Stands to Lose Something](https://jongsun.dev/when-the-agent-stands-to-lose-something/), on liability, deterrence, and the implications of an agent taking on true accountability.
+- [When, If Ever, Will AI Agents Stop Needing Us?](https://jongsun.dev/when-if-ever-agents-stop-needing-us/), a taxonomy of human interventions drawn from my own practice record.
 - [AI as Scaffold, Not Oracle](https://jongsun.dev/ai-as-scaffold-not-oracle/), on declaring the cognitive mode before the content
 - [Modelling Volatility and Risk Spillover Between US and Chinese Financial Markets](https://doi.org/10.5281/zenodo.21507695), undergraduate thesis, 2020
 
@@ -24,8 +18,7 @@ is absorbable.
   Built the arithmetic and list layers, plus the stress-test and API-docs pipelines.
 - [type-challenges](https://github.com/type-challenges/type-challenges/issues?q=author%3AMajorLift),
   solutions to hard and extreme-tier type-level puzzles, with explanations.
-- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md),
-  the org-wide style guide.
+- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md), focusing on underlying concepts not rigid rulesets.
 
 [jongsun.dev](https://jongsun.dev) · [ORCID](https://orcid.org/0009-0003-5053-4246) · [LinkedIn](https://www.linkedin.com/in/jongsun-suh/)
 
