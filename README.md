@@ -1,5 +1,7 @@
 ## Jongsun Suh
 
+Senior software engineer at MetaMask, on the extension platform team. Economics BA, Seoul National University.
+
 I'm studying the nature of human contributions in collaborations with AI coding agents. Interventions that transfer knowledge or frames will presumably become redundant with improvements in agent capability. However, my conjecture is that interventions that solely transfer standing are irreplaceable.
 
 ### Writing
