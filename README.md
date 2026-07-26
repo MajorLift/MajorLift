@@ -7,7 +7,7 @@ I'm studying the nature of human contributions in collaborations with AI coding 
 ### Writing
 
 - [Grounds, Frames, and Standing: Human Interventions in Agentic Work and the Limits of Delegation](https://jongsun.dev/papers/grounds-frames-standing/), working paper, 2026.
-- [When the Agent Stands to Lose Something](https://jongsun.dev/when-the-agent-stands-to-lose-something/), on liability, deterrence, and the implications of an agent taking on true accountability.
+- [When the Agent Stands to Lose Something](https://jongsun.dev/when-the-agent-stands-to-lose-something/), on liability, deterrence, and the implications of an agent becoming a bearer of consequences.
 - [When, If Ever, Will AI Agents Stop Needing Us?](https://jongsun.dev/when-if-ever-agents-stop-needing-us/), a taxonomy of human interventions drawn from my own practice record.
 - [AI as Scaffold, Not Oracle](https://jongsun.dev/ai-as-scaffold-not-oracle/), on declaring the cognitive mode before the content
 - [Modelling Volatility and Risk Spillover Between US and Chinese Financial Markets](https://doi.org/10.5281/zenodo.21507695), undergraduate thesis, 2020
