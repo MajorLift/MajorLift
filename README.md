@@ -1,6 +1,6 @@
 ## Jongsun Suh
 
-Senior software engineer at MetaMask, on the extension platform team. Economics BA, Seoul National University.
+Senior software engineer at MetaMask, on the Extension Platform team.
 
 ### Writing
 
