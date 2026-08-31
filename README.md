@@ -2,8 +2,6 @@
 
 Senior software engineer at MetaMask, on the extension platform team. Economics BA, Seoul National University.
 
-I'm studying the nature of human contributions in collaborations with AI coding agents. Interventions that transfer knowledge or frames will presumably become redundant with improvements in agent capability. However, my conjecture is that interventions that solely transfer standing are irreplaceable.
-
 ### Writing
 
 - [Grounds, Frames, and Standing: Human Interventions in Agentic Work and the Limits of Delegation](https://jongsun.dev/papers/grounds-frames-standing/), working paper, 2026.
@@ -15,11 +13,18 @@ Essays and criticism at [jongsun.dev](https://jongsun.dev).
 ### Open source
 
 - [MetaMask/skills](https://github.com/MetaMask/skills), agent skills, rules, and domain
-  knowledge for the MetaMask ecosystem. Built the evidence gate, the lane-graph interpreter,
-  and the PR-workflow and reasoning-audit skills.
-- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md), focusing on underlying concepts not rigid rulesets.
-- [hkt-toolbelt](https://github.com/poteat/hkt-toolbelt), higher-kinded types for TypeScript.
-  Built the arithmetic and list layers, plus the stress-test and API-docs pipelines.
+  knowledge for the MetaMask ecosystem. Added twelve review skills, eleven encoding one
+  failure mode each with a router between them, and an interpreter that makes the lane
+  graphs executable rather than a schema nothing reads. Repaired the evidence gate so it
+  resolves artifacts instead of accepting anything URL-shaped, and wrote the CI validator
+  every skill contribution is checked against.
+- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md),
+  the org-wide reference. Wrote the Types section on inference, annotations, assertions and
+  escape hatches, arguing the underlying concepts rather than a rule list, so a reader can
+  settle the cases the document does not cover.
+- [hkt-toolbelt](https://github.com/poteat/hkt-toolbelt), higher-kinded types for TypeScript,
+  where computation runs in the type system rather than at runtime. Built the arithmetic and
+  list layers across 32 merged pull requests, plus the stress-test and API-docs pipelines.
 
 [jongsun.dev](https://jongsun.dev) · [ORCID](https://orcid.org/0009-0003-5053-4246) · [LinkedIn](https://www.linkedin.com/in/jongsun-suh/)
 
