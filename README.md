@@ -7,20 +7,19 @@ I'm studying the nature of human contributions in collaborations with AI coding 
 ### Writing
 
 - [Grounds, Frames, and Standing: Human Interventions in Agentic Work and the Limits of Delegation](https://jongsun.dev/papers/grounds-frames-standing/), working paper, 2026.
-- [When the Agent Stands to Lose Something](https://jongsun.dev/when-the-agent-stands-to-lose-something/), on liability, deterrence, and the implications of an agent becoming a bearer of consequences.
-- [When, If Ever, Will AI Agents Stop Needing Us?](https://jongsun.dev/when-if-ever-agents-stop-needing-us/), a taxonomy of human interventions drawn from my own practice record.
-- [AI as Scaffold, Not Oracle](https://jongsun.dev/ai-as-scaffold-not-oracle/), on declaring the cognitive mode before the content
-- [Modelling Volatility and Risk Spillover Between US and Chinese Financial Markets](https://doi.org/10.5281/zenodo.21507695), undergraduate thesis, 2020
+- [An Epistemic-Content Taxonomy of Human Intervention in Agentic Collaboration](https://doi.org/10.5281/zenodo.22128409), working paper, 2026.
+- [What Can Be Established About Human Irreducibility: Levels, Instruments, and Their Controls](https://doi.org/10.5281/zenodo.22127240), working paper, 2026.
+
+Essays and criticism at [jongsun.dev](https://jongsun.dev).
 
 ### Open source
 
-- [agent-guardrails](https://github.com/MajorLift/agent-guardrails), PreToolUse hooks for
-  Claude Code that block and redirect instead of asking the model to remember. With tests.
+- [MetaMask/skills](https://github.com/MetaMask/skills), agent skills, rules, and domain
+  knowledge for the MetaMask ecosystem. Built the evidence gate, the lane-graph interpreter,
+  and the PR-workflow and reasoning-audit skills.
+- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md), focusing on underlying concepts not rigid rulesets.
 - [hkt-toolbelt](https://github.com/poteat/hkt-toolbelt), higher-kinded types for TypeScript.
   Built the arithmetic and list layers, plus the stress-test and API-docs pipelines.
-- [type-challenges](https://github.com/type-challenges/type-challenges/issues?q=author%3AMajorLift),
-  solutions to hard and extreme-tier type-level puzzles, with explanations.
-- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md), focusing on underlying concepts not rigid rulesets.
 
 [jongsun.dev](https://jongsun.dev) · [ORCID](https://orcid.org/0009-0003-5053-4246) · [LinkedIn](https://www.linkedin.com/in/jongsun-suh/)
 
