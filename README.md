@@ -8,23 +8,11 @@ Senior software engineer at MetaMask, on the extension platform team. Economics 
 - [An Epistemic-Content Taxonomy of Human Intervention in Agentic Collaboration](https://doi.org/10.5281/zenodo.22128409), working paper, 2026.
 - [What Can Be Established About Human Irreducibility: Levels, Instruments, and Their Controls](https://doi.org/10.5281/zenodo.22127240), working paper, 2026.
 
-Essays and criticism at [jongsun.dev](https://jongsun.dev).
-
 ### Open source
 
-- [MetaMask/skills](https://github.com/MetaMask/skills), agent skills, rules, and domain
-  knowledge for the MetaMask ecosystem. Added twelve review skills, eleven encoding one
-  failure mode each with a router between them, and an interpreter that makes the lane
-  graphs executable rather than a schema nothing reads. Repaired the evidence gate so it
-  resolves artifacts instead of accepting anything URL-shaped, and wrote the CI validator
-  every skill contribution is checked against.
-- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md),
-  the org-wide reference. Wrote the Types section on inference, annotations, assertions and
-  escape hatches, arguing the underlying concepts rather than a rule list, so a reader can
-  settle the cases the document does not cover.
-- [hkt-toolbelt](https://github.com/poteat/hkt-toolbelt), higher-kinded types for TypeScript,
-  where computation runs in the type system rather than at runtime. Built the arithmetic and
-  list layers across 32 merged pull requests, plus the stress-test and API-docs pipelines.
+- [MetaMask/skills](https://github.com/MetaMask/skills): Agent skills, hooks, domain knowledge for the MetaMask ecosystem. Working on hard-mode review skills (e.g. memory leaks, concurrency), and skill evals and validation.
+- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md): Org-wide reference. Fosters shared understanding of type safety concepts, rather than enumerating a rigid ruleset.
+- [hkt-toolbelt](https://github.com/poteat/hkt-toolbelt): Higher-kinded types for TypeScript that can be referenced, composed, curried at the type level. Contributed 65 custom kinds including the arithmetic and list layers. See also: [Metaprogrammatic and agentic generation of new custom kinds](https://github.com/poteat/hkt-toolbelt/pull/62). 
 
 [jongsun.dev](https://jongsun.dev) · [ORCID](https://orcid.org/0009-0003-5053-4246) · [LinkedIn](https://www.linkedin.com/in/jongsun-suh/)
 
