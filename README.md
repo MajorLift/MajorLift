@@ -1,18 +1,14 @@
 ## Jongsun Suh
 
-Senior software engineer at MetaMask, on the Extension Platform team.
+Staff software engineer at MetaMask, on the Extension Platform team.
 
-### Writing
+My approach to platform work is to make calls based on measurements and evidence instead of intuition. So my best work has been in the form of empirical research: hypothesis, instrument, falsifier, and even the occasional null result that kills a finding I was really attached to.
 
-- [Grounds, Frames, and Standing: Human Interventions in Agentic Work and the Limits of Delegation](https://jongsun.dev/papers/grounds-frames-standing/), working paper, 2026.
-- [An Epistemic-Content Taxonomy of Human Intervention in Agentic Collaboration](https://doi.org/10.5281/zenodo.22128409), working paper, 2026.
-- [What Can Be Established About Human Irreducibility: Levels, Instruments, and Their Controls](https://doi.org/10.5281/zenodo.22127240), working paper, 2026.
+With TypeScript I've dug deeper into the type-level trenches than might be practical or wise. But with verification being at the top of everyone's minds, my interest in the value of purely-functional type systems is looking like it wasn't completely misplaced.
 
-### Open source
+My favorite part of this job is the same thing I love about music: different voices coming together to form unexpected, intricate, meaningful structures.
 
-- [MetaMask/skills](https://github.com/MetaMask/skills): Agent skills, hooks, domain knowledge for the MetaMask ecosystem. Working on hard-mode review skills (e.g. memory leaks, concurrency), and skill evals and validation.
-- [MetaMask TypeScript guidelines](https://github.com/MetaMask/contributor-docs/blob/main/docs/typescript.md): Org-wide reference. Fosters shared understanding of type safety concepts, rather than enumerating a rigid ruleset.
-- [hkt-toolbelt](https://github.com/poteat/hkt-toolbelt): Higher-kinded types for TypeScript that can be referenced, composed, curried at the type level. Contributed 65 custom kinds including the arithmetic and list layers. See also: [Metaprogrammatic and agentic generation of new custom kinds](https://github.com/poteat/hkt-toolbelt/pull/62). 
+Happy to jam. Bring an instrument, either kind.
 
 [jongsun.dev](https://jongsun.dev) · [ORCID](https://orcid.org/0009-0003-5053-4246) · [LinkedIn](https://www.linkedin.com/in/jongsun-suh/)
 
