@@ -6,7 +6,7 @@ My approach to platform work is to make calls based on measurements and evidence
 
 With TypeScript I've dug deeper into the type-level trenches than might be practical or wise. But with verification being at the top of everyone's minds, my interest in the value of purely-functional type systems is looking like it wasn't completely misplaced.
 
-My favorite part of this job is the same thing I love about music: different voices coming together to form unexpected, intricate, meaningful structures.
+My favorite part of this job is the same thing I love about music: different voices coming together to form unexpected, intricate, beautiful structures.
 
 Happy to jam. Bring an instrument, either kind.
 
