@@ -2,9 +2,9 @@
 
 Staff software engineer on the platform team for the MetaMask browser extension.
 
-My approach to platform work is to make calls based on measurements and evidence instead of intuition. So my best work has been in the form of empirical research: hypothesis, instrument, falsifier, and even the occasional null result that kills a finding I was really attached to.
+My approach to platform work is to make calls based on measurements and evidence instead of intuition. So my engineering work often takes the form of empirical research: hypothesis, instrument, falsifier, and even the occasional null result that kills a finding I was really attached to.
 
-With TypeScript I've dug deeper into the type-level trenches than might be practical or wise. But with verification being at the top of everyone's minds, my interest in the value of purely-functional type systems is looking like it wasn't completely misplaced.
+But measurement only works after the fact, which is why with TypeScript I've dug deeper into the type-level trenches than might be practical or wise. With verification being at the top of everyone's minds, my interest in the value of purely-functional type systems looks like it wasn't completely misplaced.
 
 My favorite part of this job is the same thing I love about music: different voices coming together to form unexpected, intricate, beautiful structures.
 
