@@ -1,5 +1,3 @@
-## Jongsun Suh
-
 Staff software engineer on the platform team for the MetaMask browser extension.
 
 My approach to platform work is to make calls based on measurements and evidence instead of intuition. So my engineering work often takes the form of empirical research: hypothesis, instrument, falsifier, and even the occasional null result that kills a finding I was really attached to.
