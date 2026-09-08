@@ -4,7 +4,7 @@ Staff software engineer on the platform team for the MetaMask browser extension.
 
 My approach to platform work is to make calls based on measurements and evidence instead of intuition. So my engineering work often takes the form of empirical research: hypothesis, instrument, falsifier, and even the occasional null result that kills a finding I was really attached to.
 
-But measurement is bounded by conceptualization and instrumentation; whereas types provide structural guarantees that cover our blindspots. This is why with TypeScript, I've dug deeper into its purely functional type-level domain than might be practical or wise. But now that verification is at the top of everyone's minds, my interest in the value of type systems looks like it wasn't completely misplaced.
+But measurement is bounded by conceptualization and instrumentation; whereas types provide structural guarantees that cover our blindspots. This is why with TypeScript, I've dug deeper into its purely functional type-level domain than might be practical or wise. Now that verification is at the top of everyone's minds, my interest in the value of type systems looks like it wasn't completely misplaced.
 
 My favorite part of this job is the same thing I love about music: different voices coming together to form unexpected, intricate, beautiful structures.
 
